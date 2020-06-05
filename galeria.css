@@ -1,0 +1,111 @@
+*{
+    padding: 0;
+    margin:0;
+    text-decoration: none;
+}
+#barrilzona{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 100px;
+
+}
+header{
+    padding: 25px;
+    background-color: rgb(197, 197, 202);
+    height: 40px;
+    
+}
+
+#barrilzona header h1{
+  text-align: center;
+    
+    
+}
+
+#barrilzona .principal .dd1 p{
+    margin-top: 24px;
+    text-align: center;
+
+
+}
+
+#barrilzona .principal .d2 p{
+    margin-top: 24px;
+    text-align: center;
+
+
+}
+
+#barrilzona .principal .d3 p{
+    margin-top: 24px;
+    text-align: center;
+
+
+}
+
+nav{
+    display: flex;
+    background-color: rgb(44, 38, 38);
+    height: 40px;
+}
+
+.menu{
+    color: white;
+    margin-top: 10px;
+    margin-left: 15px;
+    font-weight: bold;
+    
+}
+.principal{
+    font-size: 24px;
+    color: black;
+    display: flex;
+    height: 200px;
+
+}
+.dd1 img{
+    width: 250px;
+    height: 200px;
+    margin-left: 10px;
+   
+}
+
+.d2 img {
+    width: 450px;
+    height: 200px;
+    margin-left:45px;
+    
+    
+}
+form{
+    
+    display: flex;
+    flex-direction: column;
+}
+label{
+    margin-top: 8px;
+    font-size: 16px;
+    margin-bottom: 5px;
+    margin-left: 130px;
+}
+input{
+    margin-left: 130px;
+    width: 50%;
+}
+button{
+    margin-top: 15px;
+    width: 30%;
+    margin-left: 190px;
+}
+.d3{
+    background-color: rgb(221, 215, 215);
+    flex:2;
+}
+footer{
+    text-align: center;
+    color: black;
+
+    padding: 15px;
+    background-color: silver;
+    height: 25px;
+}
